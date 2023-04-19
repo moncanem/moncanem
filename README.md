@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋 I'm Monika, web development student currently living in Vancouver and gaining practical experience in programming languages and tools!
+
 
 <!--
 **moncanem/moncanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
